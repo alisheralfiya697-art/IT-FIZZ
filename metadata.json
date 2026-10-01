@@ -1,0 +1,6 @@
+{
+  "name": "ITZFIZZ — Scroll-Driven Automotive Showcase",
+  "description": "A luxury scroll-driven automotive and mobility showcase powered by GSAP ScrollTrigger, GPU-accelerated kinematics, and high-contrast editorial typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
